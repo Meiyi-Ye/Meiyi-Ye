@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hello, my name is Meiyi Ye. I am currently a 4th year pursuing a Bachelor of Science (B.S.) in Statistics and Data Science at the University of California, Los Angeles (UCLA). My experiences and courseworks have led to me obtaining a various of skillsets. My programming skills include R, Python, SQL. I am most proficient in R and Python and enjoy exploring and performing data analytics on different datasets that interests me on kaggle.com. Currently, I am trying to sharpen up my Python skills by doing more projects using Python. 
 
-I am interested in Data Analytics and would like to pursue a career focusing on that. Alongside Data Analytics, my other fields of interests include, finance, political science, and sports.
+I am interested in Data Analytics and would like to pursue a career focusing on that. Alongside Data Analytics, my other fields of interests include, finance, politics, and sports.
