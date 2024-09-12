@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Meiyi Ye. I recently graduated with a Bachelor of Science (B.S.) in Statistics and Data Science from the University of California, Los Angeles (UCLA). My experiences and coursework have led me to obtain a variety of skills, including R, Python, SQL, and Tableau.
+Hello! My name is Meiyi Ye, and I graduated back in June from the University of California, Los Angeles (UCLA) with a Bachelor of Science in Statistics and Data Science. Throughout my academic journey, I’ve developed a strong foundation in data analytics, statistical modeling, and machine learning, gaining expertise in tools like Python, R, SQL, and more.
 
-I am interested in Data Analytics and would like to pursue a career focusing on that. Alongside Data Analytics, my other fields of interest include finance, politics, and sports.
+With a passion for problem-solving, I’m excited to apply my skills in data-driven decision-making to real-world challenges. My areas of interest extend beyond data analytics to include technology, finance, and sports, where I aim to leverage insights to drive strategic improvements.
